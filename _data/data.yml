@@ -28,7 +28,7 @@ contact:
   #threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github:                   username          | https://github.com/luisdonin
+  github:                   Luis Donin          | https://github.com/luisdonin
   #gitlab:                  # username          | https://gitlab.com/username
   #bitbucket:               # username          | https://bitbucket.com/username
   #stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -206,16 +206,12 @@ language:
   show: true
   order: 11
   title: Languages
-  description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
   items:
-    - idiom: Chinese
+    - idiom: Portuguese
       level: Native
-    - idiom: English
-      level: Professional
+    - idiom: English 
+      level: C2 - Fluent
+
 
 
 

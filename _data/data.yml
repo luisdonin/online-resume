@@ -87,7 +87,7 @@ project:
     - name: Personal project
       link: '#'
       tags:
-      date: 2015 - 2017
+      #date: 2015 - 2017
       description: |
         Personal project description...
         + First
@@ -148,16 +148,11 @@ education:
   order: 5
   title: Education
   items:
-    - institution: Example University
-      link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      description: |
-        Additional information for this institution.
-        + First
-        + Second
-
+    - institution: Federal University of Tecnology - Paraná
+      #link: '#'
+      #date: 2015 - 2018
+      major: Computer Engineering
+      degree: Bachelor's degree
 
 certificate:
   show: true

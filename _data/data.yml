@@ -177,24 +177,15 @@ publication:
   show: true
   order: 7
   title: Publications
-  description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
-
-  items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: '#'
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+   items:
+    - title: Key Generator by Machine Code through Satisfiability Modulo Theories
+      authors: José Luis Bastos Donin
+      conference: XXVIII Seminário de Iniciação Científica e Tecnológica da UTFPR, 2023
+      #link: '#'
+    - title: Gerador de Chaves Presentes em Instruções de Máquina por Teoria de Satisfabilidade do Módulo
+      authors: José Luis Bastos Donin
+      conference: Encontro de iniciação cientifica, 2023
+      #link:
 
 
 language:

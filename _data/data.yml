@@ -80,7 +80,7 @@ contact:
 
 
 project:
-  show: true
+  show: false
   order: 3
   title: Projects
   items:
@@ -103,7 +103,7 @@ project:
         + Second
 
 skill:
-  show: true
+  show: false
   order: 4
   title: Skills
   items:
@@ -155,7 +155,7 @@ education:
       degree: Bachelor's degree
 
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description: |
